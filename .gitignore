@@ -1,0 +1,8 @@
+*.o
+*.elf
+*.prx
+*.SFO
+PARAM.SFO
+EBOOT.PBP
+dist/
+bmxlite.zip
